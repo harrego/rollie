@@ -1,6 +1,6 @@
 # rollie
 
-Reaction-based role assignment Discord bot
+[ARCHIVED] Reaction-based role assignment Discord bot
 
 ## Setup
 
